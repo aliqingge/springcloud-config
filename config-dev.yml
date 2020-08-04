@@ -1,2 +1,6 @@
 logging:
   level: info
+
+config:
+  info: cloud-config-client v1.0
+  
